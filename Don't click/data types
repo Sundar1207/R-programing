@@ -1,0 +1,8 @@
+data type for R programing....
+six type is there :-
+         1. Logical   -> TURE,FALSE
+         2. Numeric   -> 12.3, 5, 999
+         3. Integer   -> 2L, 34L, 0
+         4. Complex   -> 3+2i , 3 is real number and 2i imaginary number
+         5. Character -> 'a',"good", "TRUE",'23.4 , using the double cottetion (ex ;- "")
+         6. Raw       ->  "Hello" is stored as 48 65 6c 6c 6f

@@ -1,6 +1,6 @@
 char_unique<-function(str)
 {
-   result<-unique(strsplit(str)[[]])
+   result<-unique(strsplit(str)[[1]])
 }
 
 print(char_unique("programing"))

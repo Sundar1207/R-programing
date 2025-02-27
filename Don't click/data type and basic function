@@ -1,0 +1,22 @@
+a<-12.3    #numeric 
+b<-23L     #integer
+c<-"Hello" #character
+d<-TURE    #logical
+e<-2+2i    #complex 
+cat("values : ",a,b,c,d,e)
+  
+#-------------------------------------------
+  
+print(typeof(a))     # Returns the internal storage type.
+print(class(b))      # Returns the class of an object.
+print(mode(c))       # Returns the mode of the object.
+
+#-------------------------------------------
+
+f<-chartoRaw(c)       # charecter to binary value 
+h<-as.charecater(a)   # num to char 
+
+#-------------------------------------------
+
+print(is.numeric(a))    # check the value which type 
+print(is.integer(b))

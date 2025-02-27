@@ -1,7 +1,7 @@
-2. 
+ 
 R provides several built-in data structures:
 
-Vector: A sequence of elements of the same type
+Vector: A sequence of elements of the same type - the sequence any one character is there the squ type is character 
 List: A collection of elements of different types
 Matrix: A 2D collection of elements (same type)
 Data Frame: A table-like structure with different data types in columns
